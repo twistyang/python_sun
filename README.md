@@ -19,5 +19,5 @@ https://www.anaconda.com/download/
 ## Anaconda Prompt 실행 
 (if you’re on Windows, open it as Administrator by right-clicking on it in your Start menu, selecting “more”, and then “run as administrator.”
 
-## 아나콘다 프롬프트에서, Jupyter Notebook을 다음처럼 입력
+## anaconda prompt(아나콘다 프롬프트)에서, Jupyter Notebook을 다음처럼 입력
 jupyter notebook .
