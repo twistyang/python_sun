@@ -8,3 +8,16 @@
 
 # 질문은 blockent@daum.net 으로 주세요.
 
+# 아나콘다 설치방법
+
+## Chrome 설치 
+메인 브라우저로 설정!
+
+## Anaconda 설치
+https://www.anaconda.com/download/
+
+## Anaconda Prompt 실행 
+(if you’re on Windows, open it as Administrator by right-clicking on it in your Start menu, selecting “more”, and then “run as administrator.”
+
+## 아나콘다 프롬프트에서, Jupyter Notebook을 다음처럼 입력
+jupyter notebook .
