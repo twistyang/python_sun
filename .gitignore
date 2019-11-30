@@ -1,11 +1,12 @@
-part01/.ipynb_checkpoints/
-part02/.ipynb_checkpoints/
-part03/.ipynb_checkpoints/
-part04/.ipynb_checkpoints/
-part05/.ipynb_checkpoints/
-part06/.ipynb_checkpoints/
-part07/.ipynb_checkpoints/
-part08/.ipynb_checkpoints/
-part09/.ipynb_checkpoints/
+part01/.ipynb_checkpoints/*
+part02/.ipynb_checkpoints/*
+part03/.ipynb_checkpoints/*
+part04/.ipynb_checkpoints/*
+part05/.ipynb_checkpoints/*
+part06/.ipynb_checkpoints/*
+part07/.ipynb_checkpoints/*
+part08/.ipynb_checkpoints/*
+part09/.ipynb_checkpoints/*
+part10/.ipynb_checkpoints/*
 
 .DS_Store
