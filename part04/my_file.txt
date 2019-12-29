@@ -1,3 +1,2 @@
-I am becoming a pro in python!
-Python is a great programming language 
-I am learning how to handle files in python!Today is Sunday.
+안녕하세요. 파이썬 강의 입니다.재미있습니다.
+다음 줄에 추가
